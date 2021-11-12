@@ -1,5 +1,4 @@
-
-📝 ***Hello ,   My name is Annah Tumworobere ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Tumworobere?label=Follow%20Me&style=social)](https://github.com/Tumworobere)
+  [![Github](https://img.shields.io/github/followers/Tumworobere?label=Follow%20Me&style=social)](https://github.com/Tumworobere)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Annah%20Tumworobere-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/annah-tumworobere-6258b443/)
