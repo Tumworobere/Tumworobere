@@ -1,16 +1,18 @@
  [![Github](https://img.shields.io/github/followers/Tumworobere?label=Follow%20Me&style=social)](https://github.com/Tumworobere)
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tumworobere.visitor-badge)
+
 <h1 align="center">Hi 👋, I'm Annah Tumworobere </h1>
 <h3 align="center">A Full-stack web developer from Uganda.</h3>
 <div align="center">
 <img align="center" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ikj8qtz7eo34kza1sbhswhi2qf2zcg1rj82yaj60&rid=giphy.gif&ct=g" width="200" height="200" />
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tumworobere.visitor-badge)
+
 ### About Me :Woman:
 
--  I'm a Full Stack developer who is passionate about Web Development.
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
 - 🌱I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+- 🌱 I’m currently learning ...Data structure , Algorithm, Python
 - 🌱 I make use of the best practices towards working as a remote software developer.
 - 👯 I'm interested in collaborating and contributing to open source projects.
 - 👯 I’m also interested in machine learning and Artificial intelligence and  would like to contribute to this field later in my career.
