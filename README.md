@@ -2,13 +2,16 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tumworobere.visitor-badge)
 
-<h1 align="center">Hi 👋, I'm Annah Tumworobere </h1>
+<h1 align="center">Hello World 👋, I'm Annah Tumworobere! </h1>
 <h3 align="center">A Full-stack web developer from Uganda.</h3>
-<div align="center">
-<img align="center" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ikj8qtz7eo34kza1sbhswhi2qf2zcg1rj82yaj60&rid=giphy.gif&ct=g" width="180" height="180" />
+
+<div width=100% align="center">
+  <img  alt="Person coding gif" src="https://github.com/Tumworobere/tumworobere/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" height="250" width="300" /> 
+ <div width="50%">
+ 
 </div>
 
-### About Me :## Woman ##:
+### About Me :Woman:
 
 
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
@@ -20,10 +23,52 @@
 - 😄I speak fluent English.
 - 😄 Pronouns: She/her.
 
-### GitHub Status.  
+  ---
+  ### 🛠 &nbsp;Languages and Tools :
 
-[![Annah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tumworobere&show_icons=true&theme=dracula)](https://github.com/Tumworobere/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tumworobere&theme=dracula)](https://github.com/Tumworobere/github-readme-stats)
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" alt="figma-plain.svg" width="40" height="40"/>
+</p>
+
+---
+
+<h3>
+  <summary>
+    📈  &nbsp; My GitHub Stats
+  </summary> 
+  
+</h3>
+  <br>
+
+  <!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Tumworobere&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Tumworobere github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumworobere&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
+</div>
+  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tumworobere&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Nazarov Asadbek" /></div>
+
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tumworobere}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
 
 ### Connect with me via:
 <p align="center">
