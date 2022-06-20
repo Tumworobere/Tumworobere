@@ -3,7 +3,7 @@
   [![Github](https://img.shields.io/github/followers/Tumworobere?label=Follow%20Me&style=social)](https://github.com/Tumworobere)
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Annah%20Tumworobere-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/annah-tumworobere-/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Annah%20Tumworobere-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/annah-tumworobere)
 [![Mail](https://img.shields.io/badge/Gmail-annaht.annah@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=white)](mailto:annaht.annah@gmail.com)
 
 
