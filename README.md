@@ -3,7 +3,7 @@
 <h1 align="center">Hello World 👋, I'm Annah Tumworobere! </h1>
 <h3 align="center">A Full-stack web developer from Uganda.</h3>
 
-<img src="https://github.com/Tumworobere/Tumworobere/blob/main/code.gif" width="400" style ="display: block; margin-left: auto;
+<img src="https://c.tenor.com/Yg8O2WDlGkYAAAAj/cyrentec-sci-fi.gif" width="400" style ="display: block; margin-left: auto;
   margin-right: auto; width: 50%">
 ### About Me
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
