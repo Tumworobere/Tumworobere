@@ -2,8 +2,6 @@
 
 <h1 align="center">Hello World 👋, I'm Annah Tumworobere! </h1>
 
-<img src="https:/c.tenor.com/Yg8O2WDlGkYAAAAj/cyrentec-sci-fi.gif" width="400"
-
 ### About Me
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
 - 🌱 I’m currently learning ...Data structure , Algorithm, Python
