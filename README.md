@@ -5,7 +5,7 @@
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Annah%20Tumworobere-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/annah-tumworobere-6258b443/)
 [![Mail](https://img.shields.io/badge/Gmail-annaht.annah@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=white)](mailto:annaht.annah@gmail.com)
-<br>
+</br>
 
 <h1 align='center'><samp><strong>Hi there 👋, I am Tumworobere Annah</strong></samp></h1>
 
