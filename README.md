@@ -5,10 +5,11 @@
 <h1 align="center">Hi 👋, I'm Annah Tumworobere </h1>
 <h3 align="center">A Full-stack web developer from Uganda.</h3>
 <div align="center">
-<img align="center" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ikj8qtz7eo34kza1sbhswhi2qf2zcg1rj82yaj60&rid=giphy.gif&ct=g" width="100" height="200" />
+<img align="center" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ikj8qtz7eo34kza1sbhswhi2qf2zcg1rj82yaj60&rid=giphy.gif&ct=g" width="180" height="180" />
 </div>
 
-### About Me :Woman:
+### About Me :## Woman ##:
+
 
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
 - 🌱I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
