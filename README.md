@@ -11,8 +11,9 @@
 
 <p align="center"> I have completed learning remote software development from Microverse where I spent most of my time learning different frameworks and technologies related to web development.</p>
 <div align="center">
-<img align="center" src="https://media0.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=ecf05e47ai4hob2fx69etmw54v68gqknhlnq9ylk0dmmipgn&rid=giphy.gif&ct=g" width="180" height="200" />
+<img align="center" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ikj8qtz7eo34kza1sbhswhi2qf2zcg1rj82yaj60&rid=giphy.gif&ct=g" width="180" height="200" />
 
 </div>
 
 🌍 **Currently learning :**<br>
+
