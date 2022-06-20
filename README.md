@@ -8,24 +8,18 @@
 <div width=100% align="center">
   <img  alt="Person coding gif" src="https://github.com/Tumworobere/tumworobere/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" height="250" width="300" /> 
  <div width="50%">
- 
 </div>
 
-### About Me :Woman:
-
-
+### About Me
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
-- 🌱I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 - 🌱 I’m currently learning ...Data structure , Algorithm, Python
 - 🌱 I make use of the best practices towards working as a remote software developer.
 - 👯 I'm interested in collaborating and contributing to open source projects.
 - 👯 I’m also interested in machine learning and Artificial intelligence and  would like to contribute to this field later in my career.
+🌱 Also, I really enjoy attending tech related events.
 - 😄I speak fluent English.
 - 😄 Pronouns: She/her.
-
-  ---
-  ### 🛠 &nbsp;Languages and Tools :
-
+### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -37,14 +31,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma-plain.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" alt="figma-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" alt="figma-plain.svg" width="40" height="40"/>
 </p>
 
 ---
-
 <h3>
   <summary>
     📈  &nbsp; My GitHub Stats
@@ -52,16 +43,12 @@
   
 </h3>
   <br>
-
   <!-- ./STAT -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Tumworobere&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Tumworobere github stats" /> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumworobere&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
 </div>
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tumworobere&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Nazarov Asadbek" /></div>
-
-
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
