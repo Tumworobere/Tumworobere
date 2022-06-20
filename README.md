@@ -1,12 +1,9 @@
  [![Github](https://img.shields.io/github/followers/Tumworobere?label=Follow%20Me&style=social)](https://github.com/Tumworobere)
 
 <h1 align="center">Hello World 👋, I'm Annah Tumworobere! </h1>
-<h3 align="center">A Full-stack web developer from Uganda.</h3>
 
-<img src="https:/c.tenor.com/Yg8O2WDlGkYAAAAj/cyrentec-sci-fi.gif" width="400" style ="display: block; margin-left: auto;
-  margin-right: auto; width: 50%">
+<img src="https:/c.tenor.com/Yg8O2WDlGkYAAAAj/cyrentec-sci-fi.gif" width="400"
 
-  
 ### About Me
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
 - 🌱 I’m currently learning ...Data structure , Algorithm, Python
