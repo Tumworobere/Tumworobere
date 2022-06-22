@@ -8,10 +8,11 @@
 
 ### About Me
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software development program)
-- 🌱 I’m currently learning ...Data structure , Algorithm, Python
+- 🔭 I’m currently strengthening my skills in Ruby,Ruby on Rails and Javascript
+🔭 I’m currently strengthening my skills in Datastructures,Algorithms
 - 🌱 I make use of the best practices towards working as a remote software developer.
-- 👯 I'm interested in collaborating and contributing to open source projects.
-- 👯 I’m also interested in machine learning and Artificial intelligence and  would like to contribute to this field later in my career.
+- 👯 I’m looking to collaborate on Front-end and Back-end projects.
+- ⚡ I’m also interested in machine learning and Artificial intelligence and  would like to contribute to this field later in my career.
 🌱 Also, I really enjoy attending tech related events.
 - 😄I speak fluent English.
 - 😄 Pronouns: She/her.
