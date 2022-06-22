@@ -1,6 +1,10 @@
  [![Github](https://img.shields.io/github/followers/Tumworobere?label=Follow%20Me&style=social)](https://github.com/Tumworobere)
 
 <h1 align="center">Hello World 👋, I'm Annah Tumworobere! </h1>
+<div align="center">
+<img align="center" src="https://media0.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif?cid=ecf05e47tq79x617fc9twubtndjdt5fz1wbyw4b6x0gx3ghp&rid=giphy.gif&ct=g" width="180" height="200" />
+
+</div>
 
 ### About Me
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
