@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World 👋, I'm Annah Tumworobere! </h1>
 <div align="center">
-<img align="center" src="https://media0.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif?cid=ecf05e47tq79x617fc9twubtndjdt5fz1wbyw4b6x0gx3ghp&rid=giphy.gif&ct=g" width="280" height="280" />
+<img align="center" src="https://media0.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif?cid=ecf05e47tq79x617fc9twubtndjdt5fz1wbyw4b6x0gx3ghp&rid=giphy.gif&ct=g" width="280" height="100" />
 
 </div>
 
