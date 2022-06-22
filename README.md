@@ -7,7 +7,7 @@
 </div>
 
 ### About Me
-- 🎓Recent Full-stack developer graduate from Microverse (Remote software program)
+- 🎓Recent Full-stack developer graduate from Microverse (Remote software development program)
 - 🌱 I’m currently learning ...Data structure , Algorithm, Python
 - 🌱 I make use of the best practices towards working as a remote software developer.
 - 👯 I'm interested in collaborating and contributing to open source projects.
