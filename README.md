@@ -9,7 +9,7 @@
 ### About Me
 - 🎓Recent Full-stack developer graduate from Microverse (Remote software development program)
 - 🔭 I’m currently strengthening my skills in Ruby,Ruby on Rails and Javascript
-🔭 I’m currently strengthening my skills in Datastructures,Algorithms
+- 🔭 I’m currently strengthening my skills in Datastructures,Algorithms
 - 🌱 I make use of the best practices towards working as a remote software developer.
 - 👯 I’m looking to collaborate on Front-end and Back-end projects.
 - ⚡ I’m also interested in machine learning and Artificial intelligence and  would like to contribute to this field later in my career.
