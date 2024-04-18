@@ -7,8 +7,9 @@
 </div>
 
 ### About Me
-- 🎓Recent Full-stack developer graduate from Microverse (Remote software development program)
-- 🎓I have a bachelors and masters degree in Information and Technology
+- 🎓 Tech4Dev 2024 software engineering Fellow
+- 🎓 Recent Full-stack developer graduate from Microverse (Remote software development program)
+- 🎓 I have a bachelors and masters degree in Information and Technology
 - 🔭 I’m currently strengthening my skills in Ruby,Ruby on Rails and Javascript
 - 🔭 I’m currently strengthening my skills in Datastructures,Algorithms
 - 🌱 I make use of the best practices towards working as a remote software developer.
@@ -16,7 +17,6 @@
 - ⚡ I’m also interested in machine learning and Artificial intelligence and  would like to contribute to this field later in my career.
 - 🌱 Also, I really enjoy attending tech related events.
 - 😄I speak fluent English.
-- 😄 Pronouns: She/her.
 ### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
