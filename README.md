@@ -8,14 +8,14 @@
 
 ### About Me
 - 🎓 Tech4Dev 2024 software engineering Fellow
-- 🎓 Recent Full-stack developer graduate from Microverse (Remote software development program)
+- 🎓 Full-stack developer graduate from Microverse (Remote software development program)
 - 🎓 I have a bachelors and masters degree in Information and Technology
 - 🔭 I’m currently strengthening my skills in Ruby,Ruby on Rails and Javascript
 - 🔭 I’m currently strengthening my skills in Datastructures,Algorithms
 - 🌱 I make use of the best practices towards working as a remote software developer.
 - 👯 I’m looking to collaborate on Front-end and Back-end projects.
 - ⚡ I’m also interested in machine learning and Artificial intelligence and  would like to contribute to this field later in my career.
-- 🌱 Also, I really enjoy attending tech related events.
+- 🌱 Also,I enjoy attending tech related events.
 - 😄I speak fluent English.
 ### 🛠 &nbsp;Languages and Tools :
 <p>
